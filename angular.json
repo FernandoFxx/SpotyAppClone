@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SpotyApp"
+    }
+  },
+  "defaultProject": "SpotyApp",
+  "cli": {
+    "analytics": "be702390-8e05-4c05-a403-801de8885759"
+  }
 }
